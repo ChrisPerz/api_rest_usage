@@ -28,7 +28,7 @@ export const ApiCoffeeCarruselBasic = () => {
   return (
     <div className="container-fluid p-0">
       <div className="text-center mb-4">
-        <h1 className="text-white">Coffee List Carousel</h1> 
+        <h1 className="text-white">Drinks Carousel</h1> 
       </div>
       <div className="carousel-container">
         <div id="coffeeCarousel" className="carousel slide" data-bs-ride="carousel">
